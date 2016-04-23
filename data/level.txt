@@ -2,5 +2,5 @@ STATE	State
 DISTRICT	District
 AC	Assembly Constituency
 WARD	Ward
-PX	Polling Center
+MS	Mohalla Sabha
 PB	Polling Booth
