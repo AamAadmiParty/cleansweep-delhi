@@ -2,5 +2,5 @@ STATE	State
 DISTRICT	District
 AC	Assembly Constituency
 WARD	Ward
-MS	Mohalla Sabha
+MOHALLA	Mohalla Sabha
 PB	Polling Booth
